@@ -1,4 +1,4 @@
-### Hi hello,I am Praveen Kuamr! 👋
+### Hi hello,I am Praveen Kumar! 👋
 
 - 🔭 I’m currently working on Nothing.
 - 🌱 I’m currently learning React.
