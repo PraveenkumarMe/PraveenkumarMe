@@ -1,5 +1,5 @@
 ### Hi hello,I am Praveen Kumar! 👋
- - Portfolio : praveenkumar1.000webhostapp.com
+ 
  - 🔭 I’m currently working on Nothing.
  - 🌱 I’m currently learning React.
  - 👯 I’m looking to collaborate on youtube.
