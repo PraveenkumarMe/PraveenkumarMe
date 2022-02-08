@@ -1,6 +1,5 @@
 ### Hi hello,I am Praveen Kumar! 👋
  
- - 🔭 I’m currently working on Nothing.
  - 🌱 I’m currently learning React.
  - 👯 I’m looking to collaborate on youtube.
  - 💬 Ask me about frontend developer,designer.
